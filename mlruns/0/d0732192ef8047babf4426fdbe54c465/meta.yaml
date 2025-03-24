@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d0732192ef8047babf4426fdbe54c465/artifacts
+end_time: 1742776513524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0732192ef8047babf4426fdbe54c465
+run_name: placid-finch-651
+run_uuid: d0732192ef8047babf4426fdbe54c465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742776482094
+status: 3
+tags: []
+user_id: MIGUEL SANCHEZ

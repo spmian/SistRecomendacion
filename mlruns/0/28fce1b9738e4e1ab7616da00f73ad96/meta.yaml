@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/28fce1b9738e4e1ab7616da00f73ad96/artifacts
+end_time: 1742766815484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28fce1b9738e4e1ab7616da00f73ad96
+run_name: loud-slug-670
+run_uuid: 28fce1b9738e4e1ab7616da00f73ad96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742766814771
+status: 3
+tags: []
+user_id: MIGUEL SANCHEZ

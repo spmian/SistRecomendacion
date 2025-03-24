@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/be990732dcc7497ba42cd25727edfd00/artifacts
+end_time: 1742764325550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be990732dcc7497ba42cd25727edfd00
+run_name: victorious-mule-849
+run_uuid: be990732dcc7497ba42cd25727edfd00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742764300150
+status: 3
+tags: []
+user_id: MIGUEL SANCHEZ
