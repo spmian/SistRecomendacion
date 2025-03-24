@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/7a24740cb2c1493ab5cdbaccb8dcc5a8/artifacts
+deleted_time: 1742779982293
 end_time: 1742764299590
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7a24740cb2c1493ab5cdbaccb8dcc5a8
 run_name: clean-grub-714
 run_uuid: 7a24740cb2c1493ab5cdbaccb8dcc5a8

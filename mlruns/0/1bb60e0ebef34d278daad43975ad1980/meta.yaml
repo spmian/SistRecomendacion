@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/1bb60e0ebef34d278daad43975ad1980/artifacts
+deleted_time: 1742779982781
 end_time: 1742764087391
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1bb60e0ebef34d278daad43975ad1980
 run_name: respected-hound-687
 run_uuid: 1bb60e0ebef34d278daad43975ad1980

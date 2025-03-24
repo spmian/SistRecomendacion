@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/be990732dcc7497ba42cd25727edfd00/artifacts
+deleted_time: 1742779982117
 end_time: 1742764325550
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: be990732dcc7497ba42cd25727edfd00
 run_name: victorious-mule-849
 run_uuid: be990732dcc7497ba42cd25727edfd00

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/877e831221ec41b4a1cc2b936384bece/artifacts
+deleted_time: 1742779981545
 end_time: 1742776469331
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 877e831221ec41b4a1cc2b936384bece
 run_name: rogue-panda-895
 run_uuid: 877e831221ec41b4a1cc2b936384bece

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/8456887e1e364245a59feed6e0654aec/artifacts
+deleted_time: 1742779982781
 end_time: 1742764188112
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8456887e1e364245a59feed6e0654aec
 run_name: calm-pug-728
 run_uuid: 8456887e1e364245a59feed6e0654aec

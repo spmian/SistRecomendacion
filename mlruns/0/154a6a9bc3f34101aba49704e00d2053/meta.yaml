@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/154a6a9bc3f34101aba49704e00d2053/artifacts
+deleted_time: 1742779982085
 end_time: 1742776481409
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 154a6a9bc3f34101aba49704e00d2053
 run_name: peaceful-dog-426
 run_uuid: 154a6a9bc3f34101aba49704e00d2053
